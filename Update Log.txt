@@ -1,0 +1,26 @@
+2019.06.06
+>> Update
+	-Upgrade to new framework
+	-Copy every item to the specific folder (in ProcessQueueItem.xaml)
+	-Greetings change to "Dear All" 
+
+2019.01.07
+>> Update
+	-Macro update (it calculates date properly at new year)
+
+2019.01.04
+>> Update
+	-Make sure the name begins with capital word
+	-Trim mehtode doea not work properly
+
+2018.11.06
+>> Update
+	Adding Trim() to email address due to "white space error"
+
+2018.10.04
+>> Email subject changed to previous month
+>> Macro changes: changes in workbook name, to previous month
+*--- CSAK A MACRO-t KELL VÁLTOZTATNI ---*
+
+
+
